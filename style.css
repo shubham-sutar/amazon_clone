@@ -174,7 +174,7 @@ select{
 
 /*-------------- Hero Start ----------------- */
 .hero-section{
-    background-image: url("/images/hero.jpg");
+    background-image: url("images/hero.jpg");
     height: 600px;
     background-size: cover;
     display: flex;
